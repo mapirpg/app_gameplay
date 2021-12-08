@@ -1,3 +1,13 @@
 {
-    "editor.wordWrap": "wordWrapColumn"
+    "editor.wordWrap": "wordWrapColumn",
+    
+    "colorize.languages": [
+      "javascript"
+    ],
+    "colorize.colorized_colors": [
+      "HEXA"
+    ],
+    "colorize.colorized_variables": [
+      "LESS"
+    ]
 }
